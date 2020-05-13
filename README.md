@@ -1,5 +1,5 @@
 
-# Famous Contacts
+# React Movies with Forms
 
 ## Description
 Exercise with React.js showing a SPA with dynamic components and a simple form using the “controlled components”.
